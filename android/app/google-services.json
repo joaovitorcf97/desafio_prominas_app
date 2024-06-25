@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560630777254",
+    "project_id": "desafio-prominas-eff5e",
+    "storage_bucket": "desafio-prominas-eff5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560630777254:android:f6bec8efd2ff1695957b67",
+        "android_client_info": {
+          "package_name": "com.example.desafio_prominas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwl28Sz4b1ZJGKZ1s72s-yHp-TMQxHOl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

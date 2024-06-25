@@ -1,0 +1,30 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "desafio-prominas-eff5e",
+          "appId": "1:560630777254:android:f6bec8efd2ff1695957b67",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "desafio-prominas-eff5e",
+          "appId": "1:560630777254:ios:9a53fd23c632aad2957b67",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "desafio-prominas-eff5e",
+          "configurations": {
+            "android": "1:560630777254:android:f6bec8efd2ff1695957b67",
+            "ios": "1:560630777254:ios:9a53fd23c632aad2957b67"
+          }
+        }
+      }
+    }
+  }
+}
