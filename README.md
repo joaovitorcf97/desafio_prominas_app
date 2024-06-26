@@ -22,7 +22,7 @@
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
 
-# Featues
+# Features
 
 1) Construir a tela do login, validando e-mail e senha ou acesso google/apple pelo firebase.
 Notificação push ao logar. (Apenas para validar).
