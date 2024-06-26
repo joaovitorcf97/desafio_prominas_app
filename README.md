@@ -4,10 +4,10 @@
 
 <table>
   <tr>
-    <td>Splash</td>
-    <td>Agents</td>
-    <td>Agent Detail</td>
-    <td>Maps</td>
+    <td>Login</td>
+    <td>Home Page</td>
+    <td>Course Detail</td>
+    <td>Material PDF Page</td>
   </tr>
   <tr>
      <td><img src="screenshots/login.png"></td>
